@@ -4,5 +4,4 @@ perform CRUD ( create, read, update and delete) operations like
 ● Update an entry of a book
 ● Delete a book
 ● Get all books
-# django-library-application_by_gs
 # django-library-application
